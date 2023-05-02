@@ -1,4 +1,5 @@
 .row{
+    margin-top: 20px;
     margin-left: 15px;
     color: #fff;
 }
@@ -18,7 +19,7 @@
 }
 .smallPoster{
     cursor: pointer;
-    max-height: 150px;
+    max-height: 200px;
     margin-right: 10px;
 }
 .poster:hover{
